@@ -1,0 +1,26 @@
+[
+  {
+    "id": "785b383d-7af5-4041-9a6a-f9dcc5f40a0d",
+    "name": "Ridham Sharma",
+    "email": "sridham1982@gmail com",
+    "password": "$2a$10$XTkB3wmesVIOBqgSSqXCw.7Fk957DYvTrEPfNCGT/H5/ifIMJ9Ibq",
+    "plan": "free",
+    "devicesRecycled": 0,
+    "totalWeight": 0,
+    "co2Saved": 0,
+    "points": 0,
+    "joinedAt": "2026-04-09T09:56:33.193Z"
+  },
+  {
+    "id": "15479ccf-4b0a-4317-a0d1-5b00ef39069b",
+    "name": "yash",
+    "email": "yashchoubey70@gmail.com",
+    "password": "$2a$10$wd9O7HrXUbnO4kmBzhYltOutB5qUV9FzGUdZLnth1z3zKIk4kOG5u",
+    "plan": "free",
+    "devicesRecycled": 0,
+    "totalWeight": 0,
+    "co2Saved": 0,
+    "points": 0,
+    "joinedAt": "2026-04-09T10:34:33.325Z"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "listing-1",
+    "title": "Dell Latitude Laptop",
+    "category": "laptops",
+    "price": 250,
+    "location": "north",
+    "description": "2-year old laptop in good condition. i5 processor, 8GB RAM, 256GB SSD.",
+    "image": "laptop.jpeg",
+    "sellerId": "seed",
+    "sellerName": "Raj Sharma",
+    "postedAt": "2026-04-06T10:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "listing-2",
+    "title": "Samsung Galaxy S9",
+    "category": "phones",
+    "price": 120,
+    "location": "west",
+    "description": "Good condition, minor scratches. Includes charger and case.",
+    "image": "smartphone.jpeg",
+    "sellerId": "seed",
+    "sellerName": "Priya Patel",
+    "postedAt": "2026-04-02T08:30:00Z",
+    "status": "active"
+  },
+  {
+    "id": "listing-3",
+    "title": "iPad Air 2",
+    "category": "tablets",
+    "price": 80,
+    "location": "east",
+    "description": "Works perfectly, battery life still good. No accessories included.",
+    "image": "tablet.jpeg",
+    "sellerId": "seed",
+    "sellerName": "Arjun Singh",
+    "postedAt": "2026-04-07T14:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "listing-4",
+    "title": "24\" Dell Monitor",
+    "category": "accessories",
+    "price": 60,
+    "location": "south",
+    "description": "1080p display, works perfectly. HDMI and VGA inputs.",
+    "image": "monitor.jpeg",
+    "sellerId": "seed",
+    "sellerName": "Neha Gupta",
+    "postedAt": "2026-04-04T09:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "listing-5",
+    "title": "HP EliteBook 840",
+    "category": "laptops",
+    "price": 320,
+    "location": "north",
+    "description": "Business grade laptop. i7, 16GB RAM, 512GB SSD. Excellent condition.",
+    "image": "laptop.jpeg",
+    "sellerId": "seed",
+    "sellerName": "Vikram Mehta",
+    "postedAt": "2026-04-08T11:00:00Z",
+    "status": "active"
+  },
+  {
+    "id": "listing-6",
+    "title": "iPhone 11",
+    "category": "phones",
+    "price": 290,
+    "location": "south",
+    "description": "Excellent condition, 64GB, unlocked. Original box included.",
+    "image": "smartphone.jpeg",
+    "sellerId": "seed",
+    "sellerName": "Sana Khan",
+    "postedAt": "2026-04-09T07:00:00Z",
+    "status": "active"
+  }
+]
